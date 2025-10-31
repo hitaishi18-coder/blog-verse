@@ -1,5 +1,7 @@
 📝 React + Appwrite Blog App
 
+https://blog-verse-omega-beryl.vercel.app/
+
 A simple blog application built using React, Redux, and Appwrite — allowing users to create, edit, view, and delete posts with image uploads.
 
 🚀 Features
